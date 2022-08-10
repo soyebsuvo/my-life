@@ -8,7 +8,7 @@ This is some new line here
 
  <!-- this is plain text -->
 
-__Soyeb Suvo__
+__Soyeb Suvo__  
 <img src="images/me.png" alt="profile" width="250px"  height="250px" title="this is profile"/>
 
 ---
